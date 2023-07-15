@@ -58,8 +58,8 @@ It is crucial to make a thorough examination of our project's present design, pe
 We may set up our project for success by utilizing load balancers and choosing the right scaling approach, giving a high-performance application capable of managing increased user traffic and guaranteeing a great user experience.
 ## References
 
-1. Lechner, U., & Scheuringer, G. (2017). Understanding Load Balancing with Software Defined Networking. International Journal of Advanced Computer Science and Applications, 8(5), 405-411.
+* Lechner, U., & Scheuringer, G. (2017). Understanding Load Balancing with Software Defined Networking. International Journal of Advanced Computer Science and Applications, 8(5), 405-411.
 
-2. Robachevsky, A., & Van de Velde, G. (2017). Load Balancing in IP Networks: A Survey. IEEE Communications Surveys & Tutorials, 19(4), 2542-2564.
+* Robachevsky, A., & Van de Velde, G. (2017). Load Balancing in IP Networks: A Survey. IEEE Communications Surveys & Tutorials, 19(4), 2542-2564.
 
-3. Appavu, S. (2020). Horizontal vs. Vertical Scaling: Choosing the Right Path for Your Application. IEEE Potentials, 39(6), 24-27.
+* Appavu, S. (2020). Horizontal vs. Vertical Scaling: Choosing the Right Path for Your Application. IEEE Potentials, 39(6), 24-27.
